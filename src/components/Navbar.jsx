@@ -14,7 +14,7 @@ const Navbar=()=>{
         </div>
 
         <div class="login">
-            <button class="log">Login</button>
+            <button class="log" style={{backgroundColor:'red'}}>Login</button>
             <button class="sign">Sign-up</button>
         </div>
 
